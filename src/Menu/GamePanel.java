@@ -34,7 +34,7 @@ public class GamePanel extends JPanel implements KeyListener {
         }
 
         // Carro do jogador
-        g.setColor(Color.BLUE); // Cor do carro
+        g.setColor(Color.black); // Cor do carro
         g.fillRect(carX, carY, 50, 100); // Desenha o carro como um retângulo
     }
 
