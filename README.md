@@ -1,5 +1,5 @@
 # **Project NFS United** 🚗💨  
-_Bem-vindo ao **Project NFS United**, um jogo de corrida inspirado nos clássicos jogos J2ME, como Asphalt 4 e NFS Shift Java!_  
+_Bem-vindo ao **Project NFS United**, um jogo de corrida inspirado nos clássicos jogos J2ME, como Asphalt 3 e NFS The Run Java!_  
 
 ## **Descrição do Projeto** 🕹️  
 O **Project NFS United** é um jogo simples de corrida desenvolvido em Java, trazendo a nostalgia dos jogos de corrida para dispositivos móveis antigos. 🏁  
