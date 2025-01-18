@@ -30,4 +30,4 @@ Certifique-se de que você tem o seguinte instalado:
 ### **Passo a Passo** 🚀  
 1. Clone ou baixe este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/project-nfs-united.git
+   git clone https://github.com/emanuel-galeno/project-nfs-united.git
