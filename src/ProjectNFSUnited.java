@@ -1,4 +1,4 @@
-import Menu.GamePanel;
+import Menu.Engine.GamePanel;
 
 import javax.swing.*;
 
