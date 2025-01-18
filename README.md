@@ -4,7 +4,7 @@ _Bem-vindo ao **Project NFS United**, um jogo de corrida inspirado nos clássico
 ## **Descrição do Projeto** 🕹️  
 O **Project NFS United** é um jogo simples de corrida desenvolvido em Java, trazendo a nostalgia dos jogos de corrida para dispositivos móveis antigos. 🏁  
 
-🎯 **Objetivo**: Criar uma experiência divertida e leve, com mecânicas que lembram os clássicos de corrida da era J2ME.  
+🎯 **Objetivo**: Criar uma experiência divertida e leve, com mecânicas que lembram os clássicos de corrida da era J2ME além de melhorar minhas habilidades em código.  
 
 🚧 **Status**: Este projeto está em desenvolvimento inicial e usa **Java Swing** para a interface gráfica e lógica do jogo.  
 
